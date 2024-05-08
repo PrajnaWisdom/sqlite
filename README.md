@@ -6,7 +6,7 @@
 
 ```go
 import (
-  "gorm.io/driver/sqlite"
+  "github.com/PrajnaWisdom/sqlite"
   "gorm.io/gorm"
 )
 
@@ -22,7 +22,7 @@ checkout [https://github.com/glebarez/sqlite](https://github.com/glebarez/sqlite
 
 ```go
 import (
-  "github.com/glebarez/sqlite"
+  "github.com/PrajnaWisdom/sqlite"
   "gorm.io/gorm"
 )
 
